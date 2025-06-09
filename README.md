@@ -1,16 +1,16 @@
 # flutter_calendar_exam
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The final exam of Sirma's Flutter course.
+!!! IMPORTANT: Should be tested only on android devices or emulators(API 33 and above)
+Steps to test:
+1. Clone the repo
+2. Open VS Code
+3. In terminal:
+    1. go to the project root folder
+    2. flutter clean
+    3. flutter pub get
+    4. cd ios
+    5. pod install
+    6. cd ..
+    7. flutter run
+4. Test
