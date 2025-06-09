@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143999139081",
+    "project_id": "flutter-calendar-exam",
+    "storage_bucket": "flutter-calendar-exam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143999139081:android:3800a33063aa6d54e967d8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_calendar_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwOgd2pef49sz4SdfdVFRv1isyucFpOf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
